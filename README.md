@@ -3,12 +3,11 @@
 ```
 ╔══════════════════════════════════════════════════════╗
 ║                                                      ║
-║    > whoami                                          ║
-║      ↳ full stack developer                          ║
+║    > sobre mi...                                     ║
+║      ↳ full stack developer in progress              ║
 ║    > status                                          ║
-║      ↳ building things that matter                   ║
-║    > passion                                         ║
-║      ↳ turning ☕ into code since [year]             ║
+║      ↳ construyendo un sueño                         ║
+║                                                      ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 ```
@@ -17,12 +16,12 @@
 
 ---
 
-## `~/about_me`
+## `~/sobre mi!!`
 
 ```javascript
 const me = {
-  role      : "Full Stack Developer",
-  mindset   : "Build → Break → Learn → Repeat",
+  role      : "Full Stack Developer in progress",
+  mindset   : "Construir → Romper → Aprender → Repetir",
   strengths : ["clean code", "problem solving", "pixel-perfect UIs"],
   currently : "crafting something ✨ new",
   ask_me_about: ["web dev", "APIs", "databases", "life"]
@@ -37,7 +36,7 @@ const me = {
 
 <div align="center">
 
-### 🧠 Languages
+### 🧠 Lenguajes.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -52,7 +51,6 @@ const me = {
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
